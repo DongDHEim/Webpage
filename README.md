@@ -1,2 +1,3 @@
 # Webpage
 What happens when you visit a webpage?
+Visiting a webpage to us may seem very ordinary task, but it is actually a very interesting process. Accessing information across the internet is a convervasation between a computers. When visiting a webpage, one computer (which is called a client) asks another computer (called a server or web server) for the information it needs in a series of simple messages. They communicate using HTTP (HyperText Transfer Protocol) and HTML (HyperText Markup Language). HTTP is essentially the 'language' computers use to communicate with each other, and HTML is the way webpages are encoded/structured so that any computer can understand them and display them correctly.
